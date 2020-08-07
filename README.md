@@ -5,5 +5,3 @@ I'm also a Rookie UI-Designer, so check out some of my work if you'd like to :)
 
 [Dribbble](https://dribbble.com/rmcproductions)
 [My website](https://rmcprod.me)
-
-![](https://github.com/rmcproductions/rmcproductions/blob/master/deepsea.png?raw=true)
